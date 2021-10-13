@@ -4,7 +4,7 @@
 
 layout: slide
 
-title: "Welcome to our second slide!"
+title: "Hoop de do pee do!"
 
 ---
 
